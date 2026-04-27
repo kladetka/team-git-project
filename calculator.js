@@ -6,9 +6,6 @@ if (isNaN(number1)) {
 }
 
 let number2 = +prompt("n2:");
-if (isNaN(number2)) {
-    alert("We must write a number, not a string");
-}
 
 let result = 0;
 
